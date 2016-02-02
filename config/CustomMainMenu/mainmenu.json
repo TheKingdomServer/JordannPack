@@ -1,0 +1,147 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "thekingdomserver:background/JordannPack6.png",
+            "posX" : -300,
+            "posY" : 20,
+            "width" : 600,
+            "height" : 110,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+		
+    },
+    
+    "texts":
+    {
+        "tks":
+        {
+            "text" : "Modpack oficial do servidor TKS",
+            "posX" : -165,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+
+        "versao":
+        {
+            "text" : "Versão 3.3",
+            "posX" : -59,
+            "posY" : -20,
+            "color" : 49000000,
+            "alignment" : "bottom_right"
+        }
+        
+    },
+    
+    "other":
+    {
+        #"panorama":
+        #{
+            #"images" : "thekingdomserver:background/panorama1.jpg",
+            #"animate" : true,
+            #"animationSpeed" : 1,
+            #"blur" : true,
+            #"gradient" : true
+        #}
+        "background":
+        {
+            "image" : "",
+			"mode" : "fill",
+			"slideshow":
+            {
+                "images" : ["thekingdomserver:background/papeldeparede.png","thekingdomserver:background/papeldeparede2.png","thekingdomserver:background/papeldeparede3.png","thekingdomserver:background/papeldeparede4.png","thekingdomserver:background/papeldeparede5.png","thekingdomserver:background/papeldeparede6.png","thekingdomserver:background/papeldeparede7.png"],
+                "displayDuration" : 140,
+                "fadeDuration" : 40
+            }
+
+        }
+    }
+}
