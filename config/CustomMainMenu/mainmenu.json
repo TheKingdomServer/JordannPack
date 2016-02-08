@@ -16,11 +16,14 @@
     {
         "singleplayer":
         {
-            "text" : "menu.singleplayer",
-            "posX" : -100,
+            "text" : "",
+            "posX" : -101,
             "posY" : 48,
             "width" : 200,
-            "height" : 20,
+            "height" : 29,
+            "imageWidth" : 510,
+            "imageHeight" : 72,
+            "texture" : "thekingdomserver:background/singleplayer.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -30,11 +33,14 @@
         
         "multiplayer":
         {
-            "text" : "menu.multiplayer",
-            "posX" : -100,
-            "posY" : 72,
+            "text" : "",
+            "posX" : -101,
+            "posY" : 80,
             "width" : 200,
-            "height" : 20,
+            "height" : 29,
+            "imageWidth" : 510,
+            "imageHeight" : 72,
+            "texture" : "thekingdomserver:background/thekingdomserver.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -42,28 +48,17 @@
             }
         },
         
-        "mods":
-        {
-            "text" : "Mods",
-            "posX" : -100,
-            "posY" : 96,
-            "width" : 200,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "mods"
-            }
-        },
-            
         "options":
         {
-            "text" : "menu.options",
-            "posX" : -100,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
-            "action" : 
+            "text" : "",
+            "posX" : -101,
+            "posY" : 114,
+            "width" : 100,
+            "height" : 26,
+            "imageWidth" : 255,
+            "imageHeight" : 72,
+            "texture" : "thekingdomserver:background/options.png",
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "options"
@@ -72,11 +67,14 @@
         
         "quit":
         {
-            "text" : "menu.quit",
-            "posX" : 2,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
+            "text" : "",
+            "posX" : 0,
+            "posY" : 114,
+            "width" : 100,
+            "height" : 26,
+            "imageWidth" : 255,
+            "imageHeight" : 72,
+            "texture" : "thekingdomserver:background/quit.png",
             "action" : 
             {
                 "type" : "quit"
@@ -95,6 +93,20 @@
                 "type" : "openGui",
                 "gui" : "languages"
             }
+        },
+		
+		"refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
         }
 		
     },
@@ -112,7 +124,7 @@
 
         "versao":
         {
-            "text" : "Versão 3.4",
+            "text" : "Versão 3.5",
             "posX" : -59,
             "posY" : -20,
             "color" : 49000000,
@@ -137,7 +149,7 @@
 			"mode" : "fill",
 			"slideshow":
             {
-                "images" : ["thekingdomserver:background/papeldeparede.png","thekingdomserver:background/papeldeparede2.png","thekingdomserver:background/papeldeparede3.png","thekingdomserver:background/papeldeparede4.png","thekingdomserver:background/papeldeparede5.png","thekingdomserver:background/papeldeparede6.png","thekingdomserver:background/papeldeparede7.png"],
+                "images" : ["thekingdomserver:background/papeldeparede3.png"],
                 "displayDuration" : 140,
                 "fadeDuration" : 40
             }
