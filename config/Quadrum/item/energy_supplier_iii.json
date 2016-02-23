@@ -1,0 +1,8 @@
+{
+    "name": "Energy Supplier III",
+    "texture": "energy_supplier_iii",
+    "lore": [
+        "TKS Hard Life"
+    ],
+    "max-stack-size": 1
+}
