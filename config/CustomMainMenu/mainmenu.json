@@ -16,14 +16,14 @@
     {
         "singleplayer":
         {
-            "text" : "",
+            "text" : "Singleplayer",
             "posX" : -101,
             "posY" : 48,
             "width" : 200,
-            "height" : 29,
-            "imageWidth" : 510,
-            "imageHeight" : 72,
-            "texture" : "thekingdomserver:background/singleplayer.png",
+            "height" : 25,
+            "imageWidth" : 398,
+            "imageHeight" : 36,
+            "texture" : "thekingdomserver:background/barras.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -33,14 +33,14 @@
         
         "multiplayer":
         {
-            "text" : "",
+            "text" : "Multiplayer",
             "posX" : -101,
             "posY" : 80,
             "width" : 200,
-            "height" : 29,
-            "imageWidth" : 510,
-            "imageHeight" : 72,
-            "texture" : "thekingdomserver:background/thekingdomserver.png",
+            "height" : 25,
+            "imageWidth" : 398,
+            "imageHeight" : 36,
+            "texture" : "thekingdomserver:background/barras.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -50,14 +50,14 @@
         
         "options":
         {
-            "text" : "",
+            "text" : "Options",
             "posX" : -101,
             "posY" : 114,
-            "width" : 100,
+            "width" : 99,
             "height" : 26,
-            "imageWidth" : 255,
-            "imageHeight" : 72,
-            "texture" : "thekingdomserver:background/options.png",
+            "imageWidth" : 198,
+            "imageHeight" : 36,
+            "texture" : "thekingdomserver:background/barras2.png",
             "action" :
             {
                 "type" : "openGui",
@@ -67,17 +67,31 @@
         
         "quit":
         {
-            "text" : "",
+            "text" : "Quit",
             "posX" : 0,
             "posY" : 114,
-            "width" : 100,
+            "width" : 98,
             "height" : 26,
-            "imageWidth" : 255,
-            "imageHeight" : 72,
-            "texture" : "thekingdomserver:background/quit.png",
+            "imageWidth" : 198,
+            "imageHeight" : 36,
+            "texture" : "thekingdomserver:background/barras2.png",
             "action" : 
             {
                 "type" : "quit"
+            }
+        },
+		
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
             }
         }
 		
