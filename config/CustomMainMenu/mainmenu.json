@@ -3,9 +3,11 @@
     {
         "title":
         {
-            "image" : "thekingdomserver:background/JordannPack6.png",
+            "image" : "thekingdomserver:principal/JordannPack7.png",
             "posX" : -300,
             "posY" : 20,
+			"imageWidth" : 822,
+            "imageHeight" : 148,
             "width" : 600,
             "height" : 110,
             "alignment" : "top_center"
@@ -23,7 +25,7 @@
             "height" : 25,
             "imageWidth" : 398,
             "imageHeight" : 36,
-            "texture" : "thekingdomserver:background/barras.png",
+            "texture" : "thekingdomserver:principal/barras.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -40,7 +42,7 @@
             "height" : 25,
             "imageWidth" : 398,
             "imageHeight" : 36,
-            "texture" : "thekingdomserver:background/barras.png",
+            "texture" : "thekingdomserver:principal/barras.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -57,7 +59,7 @@
             "height" : 26,
             "imageWidth" : 198,
             "imageHeight" : 36,
-            "texture" : "thekingdomserver:background/barras2.png",
+            "texture" : "thekingdomserver:principal/barras2.png",
             "action" :
             {
                 "type" : "openGui",
@@ -74,24 +76,10 @@
             "height" : 26,
             "imageWidth" : 198,
             "imageHeight" : 36,
-            "texture" : "thekingdomserver:background/barras2.png",
+            "texture" : "thekingdomserver:principal/barras2.png",
             "action" : 
             {
                 "type" : "quit"
-            }
-        },
-		
-        "refresh":
-        {
-            "text" : "",
-            "posX" : -154,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
-            {
-                "type" : "refresh"
             }
         }
 		
@@ -121,25 +109,13 @@
     
     "other":
     {
-        #"panorama":
-        #{
-            #"images" : "thekingdomserver:background/panorama1.jpg",
-            #"animate" : true,
-            #"animationSpeed" : 1,
-            #"blur" : true,
-            #"gradient" : true
-        #}
-        "background":
+        "panorama":
         {
-            "image" : "",
-			"mode" : "fill",
-			"slideshow":
-            {
-                "images" : ["thekingdomserver:background/papeldeparede3.png"],
-                "displayDuration" : 140,
-                "fadeDuration" : 40
-            }
-
+            "images" : "thekingdomserver:background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
         }
     }
 }
