@@ -1,3 +1,16 @@
+# Changelog - 18/03/2016 | v3.5
+  » A maioria dos mods atualizados
+  
+  » Better Loading Screen adicionado
+  
+  » HeadCrumbs adicionado
+  
+  » WearMC removido
+  
+  » Pasta resources atualizada para a nova logo do servidor
+  
+  » Configurações atualizadas
+
 # Changelog - 05/02/2016 | v3.4
   » ClockHUD adicionado
   
