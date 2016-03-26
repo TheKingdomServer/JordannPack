@@ -1,3 +1,14 @@
+# Changelog - 26/03/2016 | v3.6
+  » ae2stuff removido
+  
+  » Chisel 2 atualizado
+  
+  » TravellersGear adicionado
+  
+  » Hardcore Wither adicionado
+  
+  » Configurações atualizadas
+
 # Changelog - 18/03/2016 | v3.5
   » A maioria dos mods atualizados
   
