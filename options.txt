@@ -1,1 +1,0 @@
-key_TG.keybind.openInv:18
