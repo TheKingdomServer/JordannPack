@@ -1,3 +1,27 @@
+# Changelog - 05/04/2016 | v3.7
+  » Immersive Engineering adicionado
+  
+  » Dimensional Guard removido
+  
+  » Ding removido
+  
+  » Death Audio teve a música trocada
+  
+  » Forestry atualizado
+  
+  » Storage Drawers atualizado
+  
+  » Optifine atualizado
+  
+  » Botania atualizado
+  
+  » Agricraft atualizado
+  
+  » Travellers Gear modificado (ms_matt)
+    - Agora não e mais possivel floodar com as mensagens dele
+    
+  » Configurações atualizadas
+
 # Changelog - 26/03/2016 | v3.6
   » ae2stuff removido
   
