@@ -1,3 +1,24 @@
+# Changelog - 25/04/2016 | v3.8
+  » BRPerks adicionado
+  
+  » Optifine atualizado
+  
+  » Thaumic Energistics atualizado
+  
+  » Stellar Sky e API adicionados
+  
+  » Inventory Tweaks atualizado
+  
+  » Iguana Tinkers Tweaks atualizado
+  
+  » Java Enforcer adicionado
+  
+  » Companions mod adicionado
+  
+  » BattleText adicionado
+  
+  » ItemPhysic Lite adicionado
+
 # Changelog - 05/04/2016 | v3.7
   » Immersive Engineering adicionado
   
