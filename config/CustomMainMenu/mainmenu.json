@@ -1,121 +1,154 @@
 {
-    "images":
-    {
-        "title":
-        {
-            "image" : "thekingdomserver:principal/JordannPack7.png",
-            "posX" : -300,
-            "posY" : 20,
-			"imageWidth" : 822,
-            "imageHeight" : 148,
-            "width" : 600,
-            "height" : 110,
-            "alignment" : "top_center"
+    "images": {},
+    "buttons": {
+        "singleplayer": {
+            "text": "menu.singleplayer",
+            "texture": "mainmenu:textures/button.png",
+            "posX": -84,
+            "posY": -40,
+            "width": 170,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "singleplayer"
+            }
+        },
+        "multiplayer": {
+            "text": "menu.multiplayer",
+            "texture": "mainmenu:textures/button.png",
+            "posX": -84,
+            "posY": -20,
+            "width": 170,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "multiplayer"
+            }
+        },
+        "mods": {
+            "text": "Mods",
+            "hoverText": "Mods Ativos: #modsactive#",
+            "texture": "mainmenu:textures/button.png",
+            "posX": -84,
+            "posY": 0,
+            "width": 170,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "mods"
+            }
+        },
+        "options": {
+            "text": "menu.options",
+            "texture": "mainmenu:textures/button.png",
+            "posX": -84,
+            "posY": 20,
+            "width": 170,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "options"
+            }
+        },
+        "Quit": {
+            "text": "menu.quit",
+            "hoverText": "Ah! Fica aí :'(",
+            "texture": "mainmenu:textures/button.png",
+            "posX": -84,
+            "posY": 40,
+            "width": 170,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "quit"
+            }
+        },
+        "Language": {
+            "text": "",
+            "texture": "mainmenu:textures/globe.png",
+            "tooltip": "Language",
+            "posX": -26,
+            "posY": 64,
+            "width": 12,
+            "height": 12,
+            "alignment": "center",
+            "imageWidth": 20,
+            "imageHeight": 20,
+            "action": {
+                "type": "openGui",
+                "gui": "languages"
+            }
+        },
+        "External Information": {
+            "text": "",
+            "texture": "mainmenu:textures/info.png",
+            "tooltip": "Informações",
+            "posX": -6,
+            "posY": 64,
+            "width": 12,
+            "height": 12,
+            "alignment": "center",
+            "imageWidth": 20,
+            "imageHeight": 20,
+            "action": {
+                "type": "openLink",
+                "link": "http://forum.thekingdomserver.com"
+            }
+        },
+        "Refresh": {
+            "text": "",
+            "texture": "mainmenu:textures/refresh.png",
+            "tooltip": "Recarregar",
+            "posX": 14,
+            "posY": 64,
+            "width": 12,
+            "height": 12,
+            "alignment": "center",
+            "imageWidth": 20,
+            "imageHeight": 20,
+            "action": {
+                "type": "refresh"
+            }
         }
     },
-    
-    "buttons":
-    {
-        "singleplayer":
-        {
-            "text" : "Singleplayer",
-            "posX" : -101,
-            "posY" : 48,
-            "width" : 200,
-            "height" : 25,
-            "imageWidth" : 398,
-            "imageHeight" : 36,
-            "texture" : "thekingdomserver:principal/barras.png",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "singleplayer"
-            }
+    "texts": {
+        "Mojang": {
+            "text": "Copyright Mojang AB",
+            "posX": -105,
+            "posY": -10,
+            "alignment": "bottom_right",
+            "color": -1
         },
-        
-        "multiplayer":
-        {
-            "text" : "Multiplayer",
-            "posX" : -101,
-            "posY" : 80,
-            "width" : 200,
-            "height" : 25,
-            "imageWidth" : 398,
-            "imageHeight" : 36,
-            "texture" : "thekingdomserver:principal/barras.png",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "multiplayer"
-            }
+        "Minecraft Version": {
+            "text": "Minecraft #mcversion#",
+            "posX": 2,
+            "posY": -28,
+            "alignment": "bottom_left",
+            "color": -1
         },
-        
-        "options":
-        {
-            "text" : "Options",
-            "posX" : -101,
-            "posY" : 114,
-            "width" : 99,
-            "height" : 26,
-            "imageWidth" : 198,
-            "imageHeight" : 36,
-            "texture" : "thekingdomserver:principal/barras2.png",
-            "action" :
-            {
-                "type" : "openGui",
-                "gui" : "options"
-            }
+        "Forge Version": {
+            "text": "Forge #forgeversion#",
+            "posX": 2,
+            "posY": -19,
+            "alignment": "bottom_left",
+            "color": -1
         },
-        
-        "quit":
-        {
-            "text" : "Quit",
-            "posX" : 0,
-            "posY" : 114,
-            "width" : 98,
-            "height" : 26,
-            "imageWidth" : 198,
-            "imageHeight" : 36,
-            "texture" : "thekingdomserver:principal/barras2.png",
-            "action" : 
-            {
-                "type" : "quit"
-            }
+        "Pack Version": {
+            "text": "JordannPack v4.0 - TKS",
+            "posX": 2,
+            "posY": -10,
+            "alignment": "bottom_left",
+            "color": -1
         }
-		
     },
-    
-    "texts":
-    {
-        "tks":
-        {
-            "text" : "Modpack oficial do servidor TKS",
-            "posX" : -165,
-            "posY" : -10,
-            "color" : -1,
-            "alignment" : "bottom_right"
-        },
-
-        "versao":
-        {
-            "text" : "Versão 3.8",
-            "posX" : -59,
-            "posY" : -20,
-            "color" : 49000000,
-            "alignment" : "bottom_right"
-        }
-        
-    },
-    
-    "other":
-    {
-        "panorama":
-        {
-            "images" : "thekingdomserver:background/panorama_%c.png",
-            "animate" : true,
-            "animationSpeed" : 1,
-            "blur" : true,
-            "gradient" : true
+    "other": {
+        "background": {
+            "image": "mainmenu:textures/background1.png",
+            "mode": "stretch"
         }
     }
 }
