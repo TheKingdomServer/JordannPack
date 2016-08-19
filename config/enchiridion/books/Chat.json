@@ -1,0 +1,295 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Chat/JordannPack-logo.png",
+            "xPos": 19,
+            "yPos": 14,
+            "width": 190.0,
+            "height": 194.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003e Chat \u003c",
+            "wrap": 0,
+            "size": 2.2,
+            "color": "FF555555",
+            "xPos": 269,
+            "yPos": 29,
+            "width": 116.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Livro de ajuda",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 257,
+            "yPos": 55,
+            "width": 144.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Botania:flower 1",
+            "xPos": 249,
+            "yPos": 79,
+            "width": 136.0,
+            "height": 136.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Movendo-se de canal",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 28,
+            "yPos": 28,
+            "width": 170.0,
+            "height": 46.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Existem 2 canais principais que você pode usar. Um para se comunicar com todo o servidor e outro somente para chat local. ",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 79,
+            "yPos": 52,
+            "width": 128.0,
+            "height": 46.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:writable_book",
+            "xPos": 29,
+            "yPos": 54,
+            "width": 44.0,
+            "height": 44.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "BiblioCraft:item.RecipeBook",
+            "xPos": 152,
+            "yPos": 128,
+            "width": 48.0,
+            "height": 48.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» /ch l\nTudo que falar será ouvido por jogadores perto de você\n\n» /ch g\nTudo que falar será ouvido por todos os jogadores do servidor ",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 25,
+            "yPos": 109,
+            "width": 124.0,
+            "height": 92.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Chat rápido",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 221,
+            "yPos": 28,
+            "width": 206.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:book",
+            "xPos": 224,
+            "yPos": 53,
+            "width": 47.0,
+            "height": 47.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Você ainda pode falar em um canal estando em outro, por meio de comandos antes da sua mensagem.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 280,
+            "yPos": 52,
+            "width": 128.0,
+            "height": 54.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» /g \u003cmensagem\u003e\nSua mensagem será enviada a todo o servidor, mesmo estando no canal local.\n\n» /l \u003cmensagem\u003e\nSua mensagem será enviada somente a jogadores próximos, mesmo estando no canal global.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 225,
+            "yPos": 109,
+            "width": 138.0,
+            "height": 92.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Chat privado",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 28,
+            "yPos": 26,
+            "width": 114.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Você também pode falar em chat privado com outro jogador usando comandos simples.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 72,
+            "yPos": 48,
+            "width": 139.0,
+            "height": 39.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:nutellaItem",
+            "xPos": 21,
+            "yPos": 43,
+            "width": 51.0,
+            "height": 51.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "progressiveautomation:FilterPlayerUpgrade",
+            "xPos": 158,
+            "yPos": 109,
+            "width": 52.0,
+            "height": 52.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» /tell \u003cnick\u003e \u003cmensagem\u003e \n» /msg \u003cnick\u003e \u003cmensagem\u003e\nSão 2 comandos que você pode usar para começar uma conversa privada.\n\n» /r \u003cmensagem\u003e\nEsse comando vai enviar a mensagem pra última pessoa que falou com você, como uma resposta.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 28,
+            "yPos": 96,
+            "width": 135.0,
+            "height": 97.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Ajuda com admins",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 226,
+            "yPos": 26,
+            "width": 146.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "cookingbook:recipebook 1",
+            "xPos": 223,
+            "yPos": 47,
+            "width": 48.0,
+            "height": 48.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Admins vão lhe dar todo o apoio através do chat global, porém se quiser falar privativamente você pode usar os comandos abaixo:",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 278,
+            "yPos": 48,
+            "width": 126.0,
+            "height": 51.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» /helpop \u003cmensagem\u003e\nA mensagem será exibida para todos os admins online e você terá suporte via tell.\n\nOu, caso prefira, pode usar o /tell direto, para assistencia do admin, moderador ou ajudante de sua preferencia.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 227,
+            "yPos": 112,
+            "width": 171.0,
+            "height": 82.0
+          }
+        }
+      ],
+      "pageName": ""
+    }
+  ],
+  "uniqueName": "Chat",
+  "color": 16777215,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0,
+  "language": "en_US",
+  "displayName": "Chat",
+  "displayInCreative": true
+}

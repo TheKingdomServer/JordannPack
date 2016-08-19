@@ -1,0 +1,249 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Economia/JordannPack-logo.png",
+            "xPos": 18,
+            "yPos": 13,
+            "width": 191.0,
+            "height": 196.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003e Economia \u003c",
+            "wrap": 0,
+            "size": 2.3,
+            "color": "FF555555",
+            "xPos": 245,
+            "yPos": 34,
+            "width": 174.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Livro de ajuda",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 261,
+            "yPos": 61,
+            "width": 137.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Botania:flower 1",
+            "xPos": 243,
+            "yPos": 74,
+            "width": 140.0,
+            "height": 140.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Pagamentos",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 29,
+            "yPos": 21,
+            "width": 167.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Você pode comercializar seus itens e serviços no servidor cobrando outros itens ou Moedas. Moedas são úteis no chat e para fazer compras nas lojas do servidor. ",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 84,
+            "yPos": 43,
+            "width": 121.0,
+            "height": 56.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "customnpcs:npcMoney",
+            "xPos": 30,
+            "yPos": 51,
+            "width": 46.0,
+            "height": 46.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» /Pagar \u003cnick\u003e \u003cvalor\u003e\nEnvia moedas pro jogador\n\n» /Saldo  |  /Money\nMostra seu saldo de moedas\n\n» /Ranking  |  /Money top\nLista dos mais ricos do servidor",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 26,
+            "yPos": 116,
+            "width": 179.0,
+            "height": 87.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Comércio",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 227,
+            "yPos": 23,
+            "width": 171.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:sign",
+            "xPos": 217,
+            "yPos": 47,
+            "width": 46.0,
+            "height": 46.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "A forma mais rápida de conseguir moedas no servidor é vendedos seus itens. Faça isso na loja oficial do servidor ou em lojas de VIPs.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 271,
+            "yPos": 43,
+            "width": 131.0,
+            "height": 55.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Para fazer a compra de um item, vá até uma loja e encontre as placas de vendas.\n\n» Clique direito na placa\n- Irá comprar o item\n\n» Clique esquerdo na placa\n- Irá vender o item\n\n       Continuação --\u003e",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 219,
+            "yPos": 105,
+            "width": 181.0,
+            "height": 98.0
+          }
+        }
+      ],
+      "pageName": "mouse"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Comércio",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 29,
+            "yPos": 23,
+            "width": 101.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:sign",
+            "xPos": 221,
+            "yPos": 34,
+            "width": 177.0,
+            "height": 177.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF9f844d",
+            "xPos": 240,
+            "yPos": 63,
+            "width": 128.0,
+            "height": 68.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": " Vendedor\nQuantidade\n    Valor\n ID do item",
+            "wrap": 0,
+            "size": 1.9000002,
+            "color": "FF3f2d0e",
+            "xPos": 262,
+            "yPos": 65,
+            "width": 178.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Placa de venda",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 258,
+            "yPos": 29,
+            "width": 181.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Você só poderá comprar um item que tiver a letra [b]B[/b] antes do preço: \n\n» Exemplo: B 150\n\nVocê só poderá vender um item que tiver a letra [b]S[/b] antes do preço: \n\n» Exemplo: S 100\n\nVocê poderá comprar e vender um item se ele tiver ambas as letras:\n\n» Exemplo: B 150:100 S",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 28,
+            "yPos": 47,
+            "width": 179.0,
+            "height": 144.0
+          }
+        }
+      ],
+      "pageName": ""
+    }
+  ],
+  "uniqueName": "Economia",
+  "color": 16777215,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0,
+  "language": "en_US",
+  "displayName": "Economia",
+  "displayInCreative": true
+}

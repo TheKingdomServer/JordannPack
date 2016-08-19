@@ -1,0 +1,172 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Botania:flower 1",
+            "xPos": 244,
+            "yPos": 74,
+            "width": 140.0,
+            "height": 140.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Transporte/JordannPack-logo.png",
+            "xPos": 19,
+            "yPos": 14,
+            "width": 189.0,
+            "height": 197.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003e Transporte \u003c",
+            "wrap": 0,
+            "size": 2.1000001,
+            "color": "FF555555",
+            "xPos": 237,
+            "yPos": 30,
+            "width": 194.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Livro de ajuda",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 258,
+            "yPos": 56,
+            "width": 169.0,
+            "height": 13.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Warps",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 30,
+            "yPos": 24,
+            "width": 158.0,
+            "height": 13.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Warps são usadas para te teleportar para locais de uso constante do servidor. ",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 69,
+            "yPos": 54,
+            "width": 134.0,
+            "height": 39.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Thaumcraft:ItemResource 1",
+            "xPos": 22,
+            "yPos": 48,
+            "width": 42.0,
+            "height": 42.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Você pode acessar o menu de warps digitando:\n\n» /Warps\n\nO teleporte demora 7 segundos para Membros e é instantâneo para VIPs.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 25,
+            "yPos": 107,
+            "width": 137.0,
+            "height": 53.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Entre jogadores",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 225,
+            "yPos": 25,
+            "width": 178.0,
+            "height": 14.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:skull 3",
+            "xPos": 217,
+            "yPos": 44,
+            "width": 57.0,
+            "height": 57.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Você pode usar o teleporte para ir até outro jogador, em qualquer mundo a qualquer hora.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 275,
+            "yPos": 53,
+            "width": 132.0,
+            "height": 48.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» /Tpa \u003camigo\u003e\nManda pedido de teleporte para ir até ele\n\n» /Tpahere \u003camigo\u003e\nManda pedido de teleporte para que ele venha até você\n\n» /Aceitar  |  /Negar\nAceita ou nega o pedido",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 225,
+            "yPos": 106,
+            "width": 178.0,
+            "height": 83.0
+          }
+        }
+      ],
+      "pageName": ""
+    }
+  ],
+  "uniqueName": "Transporte",
+  "color": 16777215,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0,
+  "language": "en_US",
+  "displayName": "Transporte",
+  "displayInCreative": true
+}

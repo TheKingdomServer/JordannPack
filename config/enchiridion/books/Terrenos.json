@@ -1,0 +1,362 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Terrenos/JordannPack-logo.png",
+            "xPos": 17,
+            "yPos": 13,
+            "width": 184.0,
+            "height": 192.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Livro de ajuda",
+            "wrap": 0,
+            "size": 1.5000001,
+            "color": "FF555555",
+            "xPos": 257,
+            "yPos": 54,
+            "width": 134.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003e Terrenos \u003c",
+            "wrap": 0,
+            "size": 2.3999999,
+            "color": "FF555555",
+            "xPos": 233,
+            "yPos": 29,
+            "width": 189.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Botania:flower 1",
+            "xPos": 245,
+            "yPos": 80,
+            "width": 140.0,
+            "height": 140.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Criando seu terreno ",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF555555",
+            "xPos": 26,
+            "yPos": 22,
+            "width": 156.0,
+            "height": 28.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:wooden_shovel 0",
+            "xPos": 25,
+            "yPos": 44,
+            "width": 41.0,
+            "height": 41.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Pegue o kit terreno ou crie uma pá de madeira, ela é quem você irá usar para criar o terreno.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 69,
+            "yPos": 47,
+            "width": 123.0,
+            "height": 44.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:diamond_block",
+            "xPos": 154,
+            "yPos": 95,
+            "width": 40.0,
+            "height": 40.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Vá a um canto do lugar onde você quer criar o terreno e clique direito com a pá. Você verá um bloco de diamante.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 27,
+            "yPos": 95,
+            "width": 121.0,
+            "height": 44.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:glowstone",
+            "xPos": 23,
+            "yPos": 154,
+            "width": 40.0,
+            "height": 40.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Vá ao canto oposto e clique no chão. Você verá blocos de ouro e glowstone em torno do terreno. Deu tudo certo!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 67,
+            "yPos": 153,
+            "width": 134.0,
+            "height": 48.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Adicionando amigos",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF555555",
+            "xPos": 227,
+            "yPos": 22,
+            "width": 183.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:skull 3",
+            "xPos": 223,
+            "yPos": 38,
+            "width": 47.0,
+            "height": 47.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Você pode adicionar amigos no seu terreno com diferentes níveis de permissão.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 273,
+            "yPos": 42,
+            "width": 126.0,
+            "height": 40.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Botania:cosmetic 12",
+            "xPos": 338,
+            "yPos": 125,
+            "width": 52.0,
+            "height": 52.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "/T add \u003camigo\u003e\n» Construir e usar tudo\n\n/T add-acesso \u003camigo\u003e\n» Botões, alavancas...\n\n/T add-baus \u003camigo\u003e\n» Baus, máquinas...\n\n/T add-perm \u003camigo\u003e\n» Mexer nas perms do terreno",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 220,
+            "yPos": 91,
+            "width": 191.0,
+            "height": 49.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Removendo amigos",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF555555",
+            "xPos": 30,
+            "yPos": 22,
+            "width": 138.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "/T remover \u003cnick\u003e\nRemove ele do terreno\n\n/T remover todos\nRemove todos do terreno",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 69,
+            "yPos": 41,
+            "width": 140.0,
+            "height": 44.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Botania:cosmetic 30",
+            "xPos": 18,
+            "yPos": 36,
+            "width": 48.0,
+            "height": 48.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Você ainda pode usar:\n\n/T amigos\n\nPara ver a lista completa de quem está no seu terreno e as suas permissões.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 30,
+            "yPos": 96,
+            "width": 161.0,
+            "height": 92.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Extras",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF555555",
+            "xPos": 227,
+            "yPos": 23,
+            "width": 169.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "/T explosoes\n» Ativa/Desativa explosões\n\n/T abandonar\n» Abandona o terreno que você está em cima\n\n/T abandonar tudo\n» Abandona todos os seus terrenos\n\n/T lista\n» Mostra lista dos seus terrenos\n",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 226,
+            "yPos": 42,
+            "width": 176.0,
+            "height": 119.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "» Blocos de claim",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF555555",
+            "xPos": 33,
+            "yPos": 23,
+            "width": 118.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "customnpcs:npcMoney",
+            "xPos": 28,
+            "yPos": 46,
+            "width": 33.0,
+            "height": 33.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Vai ter alguma hora em que você não vai mais conseguir expandir ou criar um novo terreno.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 66,
+            "yPos": 45,
+            "width": 138.0,
+            "height": 44.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Isso depende dos blocos de claim, que você recebe 10.000 logo de inicio, podendo comprar mais com alguns comandos simples.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 25,
+            "yPos": 82,
+            "width": 176.0,
+            "height": 33.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "/T comprarblocos \u003cQntd\u003e\n» Compra blocos - $10 por 1\n\n/T venderblocos \u003cQntd\u003e\n» Vende blocos - $7 cada",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 26,
+            "yPos": 124,
+            "width": 179.0,
+            "height": 80.0
+          }
+        }
+      ],
+      "pageName": ""
+    }
+  ],
+  "uniqueName": "Terrenos",
+  "color": 16777215,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0,
+  "language": "en_US",
+  "displayName": "Terrenos",
+  "displayInCreative": true
+}
