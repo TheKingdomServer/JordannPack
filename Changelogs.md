@@ -1,3 +1,45 @@
+# Changelog - 19/08/2016 | v4.0
+  » Enchiridion adicionado
+  
+  » BspkrsCore adicionado
+  
+  » StartingInventory adicionado
+  
+  » FoxLib adicionado
+  
+  » Tails adicionado
+  
+  » MobDismemberment adicionado
+  
+  » ConstructionMod adicionado
+  
+  » Llibrary adicionado
+  
+  » Mowzie's Mobs adicionado
+  
+  » Immersive Integration adicionado
+  
+  » Forbidden Magic adicionado
+  
+  » ChocolateQuest adicionado
+  
+  » BiomesOPlenty adicionado
+  
+  » AppleCore removido
+  
+  » SpiceOfLife removido
+  
+  » WallpaperMod removido
+  
+  » Clock HUD removido
+  
+  » Imagem de loading alterada
+  
+  » Menu principal alterado
+  
+  » Vários mods atualizados
+  
+
 # Changelog - 25/04/2016 | v3.8
   » BRPerks adicionado
   
