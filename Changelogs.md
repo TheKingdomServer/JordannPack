@@ -1,3 +1,14 @@
+# Changelog - 24/08/2016 | v4.1
+  » Thaumic Tinkerer adicionado
+  
+  » GalactiCraft adicionado
+  
+  » Mowzie's Mobs removido
+  
+  » Malisis Advert removido
+  
+  » ChocolateQuest removido
+
 # Changelog - 19/08/2016 | v4.0
   » Enchiridion adicionado
   
