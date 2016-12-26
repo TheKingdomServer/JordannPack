@@ -26,4 +26,4 @@ Caso esteja sofrendo com um erro, siga essas orientações para criar sua 'issue
  - No conteúdo tente mostrar tudo o que deseja sem enrolações.
 
 
-![The Kingdom Server](http://thekingdomserver.com/img/LogoGithubComJordann.png)
+![The Kingdom Server](http://i.imgur.com/Xlzz48J.png)
